@@ -1,3 +1,3 @@
 module.exports.getIndex = function(app, req, res){
-    res.render('../views/index', {validation : {}});
+    res.render('../views/index', {validacao : {}});
 };
